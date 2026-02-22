@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ゲット・アップ・ルーシー",
+  "base_artist": "THEE MICHELLE GUN ELEPHANT",
+  "createdAt": "2026-02-22T03:59:53.813302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゲット・アップ・ルーシー",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/01_ゲット・アップ・ルーシー_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゲット・アップ・ルーシー",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/02_ゲット・アップ・ルーシー_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゲット・アップ・ルーシー",
+      "artist": "thee michelle gun elephant",
+      "has_synced": false,
+      "path": "select/pl_01_ゲット・アップ・ルーシー_thee_michelle_gun_elephant.txt"
+    }
+  ]
+}
